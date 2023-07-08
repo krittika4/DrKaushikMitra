@@ -1,0 +1,31 @@
+#welcome {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: #2f0d80;
+    font-family: Yeon 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    opacity: 0.83;
+  background: linear-gradient(#3f1fd1 0%, #155d8d, #90a6af, #FFFFFF 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding-top: 0.1px;
+}
+
+.profile {
+    width: 230px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+img{
+    width:200px
+}
+.introduction{
+    font-size: 100px;
+}
+
